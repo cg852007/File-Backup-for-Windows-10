@@ -9,7 +9,7 @@ I wanted to start backing up my PC and phone. After some reseach I've decided to
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Backup and Restore (Windows 7). Don't worry about the windows 7 label. </b>
+- <b>Window's Backup </b>
 
 <h2>Environments Used </h2>
 
@@ -18,32 +18,20 @@ I wanted to start backing up my PC and phone. After some reseach I've decided to
 <h2>Walk-through:</h2>
 
 <p align="center">
-Search Control Panel in the search bar: <br/>
-<img src="https://imgur.com/9BvYsQ7.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
+Search backup in the search bar: <br/>
+<img src="https://imgur.com/jXT7KXk.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 <br />
 <br />
-Control Panel > System and Security: <br/>
-<img src="https://imgur.com/IYvGjmJ.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
+This is where we enable Back up: <br/>
+<img src="https://imgur.com/suam0ru.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 <br />
 <br />
-Control Panel > System and Security > Backup an dRestore (Windows 7): <br/>
-<img src="https://imgur.com/L4NXMGm.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
+Make sure you have the external media inserted and it has sufficient space. Under "Back up using File History" turn the switch to On (If it's your first time you'll be prompted to select the drive you wish to use). The files will backup automatically every hour. Under it you have "more options" click this to customize further: <br/>
+<img src="https://imgur.com/SP2JvOp.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 <br />
 <br />
-Select the where you would like to save the image backup: </br>
-<img src="https://imgur.com/Gz7SAim.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
-<br />
-<br />
-Make sure you select all drives you want to backup:  <br/>
-<img src="https://imgur.com/ww40NfT.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
-<br />
-<br />
-Confirm your choices:  <br/>
-<img src="https://imgur.com/yOtGbkY.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
-<br />
-<br />
-It will create the system image, drink coffee:  <br/>
-<img src="https://imgur.com/8vBBdA7.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
+You can add/remove folders you want to back, edit how often it backs the files up, and how long to keep the backups: </br>
+<img src="https://imgur.com/3EnFSZX.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 </p>
 
 <!--
