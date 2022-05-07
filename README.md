@@ -31,7 +31,7 @@ Make sure you have the external media inserted and it has sufficient space. Unde
 <img src="https://imgur.com/SP2JvOp.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 <br />
 <br />
-You can add/remove folders you want to back, edit how often it backs the files up, and how long to keep the backups: </br>
+Click "back up now" for the initial back up. You can add/remove folders you want to back, edit how often it backs the files up, and how long to keep the backups: </br>
 <img src="https://imgur.com/3EnFSZX.png" height="80%" width="80%" alt=">File-Backup-for-Windows-10"/>
 </p>
 
