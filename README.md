@@ -4,6 +4,8 @@
 
 <h2>Description</h2>
 I wanted to start backing up my PC and phone. After some reseach I've decided to back them up physically and to the clould. I will use image backup and file backup for my physical storage options. A file backup copies your data files (photos, documents, etc.). An image backup will copy everything on your drive including boot sector, partions, programs, and settings. This will show how I back up my PC with file backup.
+
+You can always reinstall applications(Image backup), but not your family photos(File backup).
 <br />
 
 
